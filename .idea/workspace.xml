@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6772def3-1388-4aea-b126-2e52ef49d287" name="Default" comment="" />
-    <list id="32db3d02-9cf8-46ba-a5d6-381692584c78" name="New changelist" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="6772def3-1388-4aea-b126-2e52ef49d287" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="javastudy.iws" />
@@ -472,7 +470,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6772def3-1388-4aea-b126-2e52ef49d287" name="Default" comment="" />
-      <changelist id="32db3d02-9cf8-46ba-a5d6-381692584c78" name="New changelist" comment="" />
+      <changelist id="" name="New changelist" comment="" />
       <created>1457882415556</created>
       <option name="number" value="Default" />
       <updated>1457882415556</updated>
@@ -489,7 +487,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458502208280</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New changelist">
+      <created>1458502300664</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1458502300664</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -534,7 +538,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Rejected commit: Default" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rejected commit: Default" />
+    <MESSAGE value="New changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="New changelist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
